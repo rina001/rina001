@@ -1,6 +1,6 @@
 ### Hi there, I am Rina! 👋 
 
-Hi, I am Rina Qiu. I am a student learning funny coding online.
+Hi, I am Rina Qiu. I am a student learning front-end and back-end class online.
 
 - 🔭 I’m currently working on a cool thing!
 - 🌱 I’m currently learning JavaScript and React!
